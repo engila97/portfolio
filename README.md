@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# My Portfolio
 
-You can use the [editor on GitHub](https://github.com/engila97/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Check out the projects that I have been working on recently! I am a big fan of trying out new things, so have a variety of things I am working on. My current portfolio consists of web development and machine learning projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project 1: Predicting Insurance Costs in Medical Domain using Clustering and Polynomial Regression 
 
-### Markdown
+With Nowa
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project 2: US Judge Ratings using a Regression Model
 
-```markdown
-Syntax highlighted code block
+With CodeFreeCamp
 
-# Header 1
-## Header 2
-### Header 3
+### Project 3: Build a Neural Network 
 
-- Bulleted
-- List
+With Nowa
 
-1. Numbered
-2. List
+### Project 4: NYC Taxi Fare Prediction using Linear Regression, Random Forest, XgBoost 
 
-**Bold** and _Italic_ and `Code` text
+With Nowa
 
-[Link](url) and ![Image](src)
-```
+### Project 5: Art Therapy Website
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+During CFG
 
-### Jekyll Themes
+### Project 6: Cupcake Website
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/engila97/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+With Dell 
 
-### Support or Contact
+### Project 7: A Fashion Recommender using Tensorflow/Keras
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+With ASOS (7.11)
+
+### Project 8: Mental Health Illness Prediction uding K Nearest Neighbours model
+
+With Nowa (7.11)
+
+### Project 9: Text Classification by Transfer learning with Deep Transformers
+
+With Depop (14.11)
+
+### Project 10: Predicting Wine Quality 
+
+(18.11)
